@@ -1,7 +1,7 @@
 
 # Switch Remote Patcher (made in Unity)
 
-# [Download]()
+# [Download](https://github.com/liz403/SwitchRemotePatcherUnity/releases/latest)
 
 **!! Requires sys-botbase, download it [here.](https://github.com/olliz0r/sys-botbase/releases/latest)**
 
